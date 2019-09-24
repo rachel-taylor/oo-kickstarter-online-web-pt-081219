@@ -11,4 +11,3 @@ class Backer
     project.add_backer(self) unless project.backers.include?(self)
   end
 end
-© 2019 GitHub, Inc.
